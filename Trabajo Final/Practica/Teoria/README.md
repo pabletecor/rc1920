@@ -32,7 +32,7 @@ El concepto “Representación del conocimiento” no es simplemente almacenar d
 
 
 
-##Técnicas usadas
+## Técnicas usadas
 
 
 Hay cuatro técnicas para representar el conocimiento, que vienen listadas a continuación:
