@@ -50,7 +50,7 @@ Hay cuatro técnicas para representar el conocimiento, que vienen listadas a con
 Vamos a indagar en cada una de ellas.
 
 
-###Representación lógica
+### Representación lógica
 
 
 Consideramos representación lógica como un lenguaje, que tiene unas reglas definidas. Destaca el uso de predicados y la no-ambigüedad de la representación. Está definida por dos conceptos principales, la sintaxis y la semántica.
@@ -62,7 +62,7 @@ Consideramos representación lógica como un lenguaje, que tiene unas reglas def
 * Semántica: Son las reglas con las que se puede interpretar una oración, y permite asignarle un significado.
 
 
-###Representación de redes semánticas
+### Representación de redes semánticas
 
 
 Las redes semánticas se usan como una alternativa a la representación lógica. En ellas podemos representar nuestro conocimiento mediante el uso de grafos. En general usamos la Teoría de Dependencia Conceptual, donde asignamos los conceptos como nodos y las relaciones como las aristas del grafo.
@@ -70,7 +70,7 @@ Las redes semánticas se usan como una alternativa a la representación lógica.
 Si bien el uso de redes semánticas es simple y fácil de entender, ya que es muy parecido al lenguaje natural, su coste computacional es alto y es difícil de saber si es posible automatizar la reducción a grafos para todas las oraciones de un lenguaje dado.
 
 
-###Representación de **frames**
+### Representación de **frames**
 
 
 Llamamos **frame** a una estructura o plantilla que almacena una colección de atributos y valores para dichos atributos para describir una entidad del mundo (parecido a la programación orientada a objetos, o a los registros de bases de datos). 
@@ -84,7 +84,7 @@ La principal ventaja que tiene el uso de frames es su fácil entendimiento, así
 
 
 
-###Reglas de producción
+### Reglas de producción
 
 
 En las reglas de producción, el agente chequea la **condición**, y si esta existe, entonces la regla de producción se **“dispara”** y realiza la acción correspondiente.
