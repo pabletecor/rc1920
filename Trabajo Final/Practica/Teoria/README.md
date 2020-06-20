@@ -124,7 +124,7 @@ Las principales ventajas que poseen las Reglas de Producción son su codificaci�
 Entre sus desventajas cabe destacar su ineficiencia, pues durante la ejecución de un programa, varias reglas pueden estar activas.
 
 
-##Bibliografía 
+## Bibliografía 
 
 
 * [What is Knowledge Representation in AI?](https://www.edureka.co/blog/knowledge-representation-in-ai/#techniques)
