@@ -19,6 +19,8 @@ Este apartado del documento explica la implementación del conocido como Problem
 
 El problema consiste en devolver las posiciones de un tablero de NxN casillas de manera que si un caballo del ajedrez se moviese en dicho orden pisase todas las casillas sin repetir ninguna.
 
+![Posible solución del problema](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/caballo.jpg)
+
 ## Aritmética declarativa CLP(FD)
 
 En este ejercicio usamos la aritmética declarativa CLP(FD), que declara los números naturales usando los axiomas de Peano
