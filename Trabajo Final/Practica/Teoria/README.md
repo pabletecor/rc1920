@@ -80,6 +80,8 @@ Llamamos **frame** a una estructura o plantilla que almacena una colección de a
 
 Hay veces que al rellenar los valores de las casillas que conforman a un frame, esto puede encadenar que se tome una acción y que se cumplan las condiciones de otros frames. 
 
+![Representación de Frames](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Teoria/Imagenes/framerepresentation.jpg)
+
 
 La principal ventaja que tiene el uso de frames es su fácil entendimiento, así como la posibilidad de tener valores nulos o por defecto. Su principal desventaja es que el mecanismo no es tan fácil de procesar, y su carácter genérico.
 
