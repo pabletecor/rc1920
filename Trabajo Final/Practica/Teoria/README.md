@@ -55,7 +55,7 @@ Vamos a indagar en cada una de ellas.
 
 Consideramos representación lógica como un lenguaje, que tiene unas reglas definidas. Destaca el uso de predicados y la no-ambigüedad de la representación. Está definida por dos conceptos principales, la sintaxis y la semántica.
 
-
+![Representación Lógica](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Teoria/Imagenes/Logical Representation.PNG)
 
 
 * Sintaxis: Define las construcciones de oraciones válidas en nuestro lenguaje, así como los símbolos permitidos.
