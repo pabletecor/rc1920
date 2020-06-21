@@ -11,15 +11,15 @@
 
 # Problema del caballo (Knight’s Tour)
 
-##Introducción
+## Introducción
 
 Este apartado del documento explica la implementación del conocido como Problema del Caballo (Knight’s Tour), que es un acertijo recurrente desde siglos atrás y que se ha intentado resolver por matemáticos como Euler. Vamos a comentar la implementación por Markus Triska
 
-##Explicación del ejercicio implementado
+## Explicación del ejercicio implementado
 
 El problema consiste en devolver las posiciones de un tablero de NxN casillas de manera que si un caballo del ajedrez se moviese en dicho orden pisase todas las casillas sin repetir ninguna.
 
-##Aritmética declarativa CLP(FD)
+## Aritmética declarativa CLP(FD)
 
 En este ejercicio usamos la aritmética declarativa CLP(FD), que declara los números naturales usando los axiomas de Peano
 
@@ -83,7 +83,7 @@ https://es.wikipedia.org/wiki/Camino_hamiltoniano
 ![Solución](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/solucion.PNG)
 
 
-##Bibliografía
+## Bibliografía
 
 https://www.metalevel.at/knight/
 https://www.metalevel.at/knight/knight.pl
