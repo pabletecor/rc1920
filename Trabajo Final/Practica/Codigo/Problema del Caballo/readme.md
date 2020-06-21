@@ -74,11 +74,9 @@ El predicado successors principalmente analiza cuales son todas las posiciones v
 	
 Inicialmente se abrirán varias posibilidades de movimientos para las primeras casillas, pero una vez el problema avance solo serán viables los caminos que cumplen que para todas las casillas el caballo tenga un movimiento posible.
 	
-Más tarde nos quedaremos con un único camino que será el que cumpla la condición de ser un circuito Hamiltoniano.
+Más tarde nos quedaremos con un único camino que será el que cumpla la condición de ser un [circuito Hamiltoniano.](https://es.wikipedia.org/wiki/Camino_hamiltoniano)
 
 ![succesors](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/succesors.PNG)
-
-https://es.wikipedia.org/wiki/Camino_hamiltoniano
 
 ## Posible solución del problema.
 
@@ -90,3 +88,7 @@ https://es.wikipedia.org/wiki/Camino_hamiltoniano
 https://www.metalevel.at/knight/
 
 https://www.metalevel.at/knight/knight.pl
+
+https://es.wikipedia.org/wiki/Problema_del_caballo
+
+[Video explicativo sobre el problema del caballo.](https://www.youtube.com/watch?v=xub1KmUgrdk)
