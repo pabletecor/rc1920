@@ -17,7 +17,7 @@ Este apartado del documento explica la implementación del conocido como Problem
 
 ## Explicación del ejercicio implementado
 
-El problema consiste en devolver las posiciones de un tablero de NxN casillas de manera que si un caballo del ajedrez se moviese en dicho orden pisase todas las casillas sin repetir ninguna.
+El problema consiste en devolver las posiciones de un tablero de NxN casillas de manera que si un caballo del ajedrez se moviese en dicho orden pisase todas las casillas sin repetir ninguna, empezando siempre en nuestro caso por la casilla superior izquierda.
 
 ![Posible solución del problema](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/caballo.jpg)
 
