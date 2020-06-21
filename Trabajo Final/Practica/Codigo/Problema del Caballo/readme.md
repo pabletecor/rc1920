@@ -78,7 +78,7 @@ Más tarde nos quedaremos con un único camino que será el que cumpla la condic
 
 https://es.wikipedia.org/wiki/Camino_hamiltoniano
 
-##Posible solución del problema.
+## Posible solución del problema.
 
 ![Solución](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/solucion.PNG)
 
