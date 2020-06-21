@@ -78,7 +78,7 @@ test(Qs) :- test(Qs,1,[],[]).
 ### test(+Qs,+X,+Cs,+Ds)
 Es cierto si la reina en la fila Qs, y en la columna X, no entra en conflicto con las diagonales Cs y Ds
 
-### \+ Meta:
+### '\'+ Meta:
 Cierto si meta no puede ser probado
 
 ### memberchk(?Elem,+List): 
@@ -105,9 +105,11 @@ u horizontal del resto de reinas, dado un tablero de Num x Num
 
 ```
 queens_2(N,Qs) :- range(1,N,Rs), permu_test(Rs,Qs,1,[],[]).
-´´´
+```
+
 ### permu_test(+ListaInicial,-ListaFinal,+Num,+DiaCs,+DiaDs)
 Es cierto si ListaFinal unifica con una permutacion de ListaInicial, donde sus elementos no coinciden entre ellos en ninguna diagonal, siendo Num el contador que verifica en qué iteración se encuentra
+
 ```
 permu_test([],[],_,_,_).
 permu_test(Qs,[Y|Ys],X,Cs,Ds) :- 
