@@ -86,4 +86,5 @@ https://es.wikipedia.org/wiki/Camino_hamiltoniano
 ## Bibliografía
 
 https://www.metalevel.at/knight/
+
 https://www.metalevel.at/knight/knight.pl
