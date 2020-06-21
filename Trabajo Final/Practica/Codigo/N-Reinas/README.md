@@ -128,3 +128,11 @@ Sin embargo, al ejecutar las mismas operaciones con la solución queens_2 podemo
 Esto se debe a que se ha optimizado código y tiempo de ejecución al unir las clases *permu* y *test* en una sola.
 
 ![Ejecución queens_2](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Codigo/Imagenes/queens_2.PNG)
+
+## Bibliografía
+
+[99 prolog problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
+
+[Explicacion del problema de las N-Reinas](https://www.cs.buap.mx/~zacarias/FZF/nreinas3.pdf)
+
+[Premio de un millon de dolares a quien implemente eficientemente un algoritmo que resuelva las n-reinas para cualquier tamaño](https://cadenaser.com/ser/2017/09/04/gente/1504519866_903755.html)
