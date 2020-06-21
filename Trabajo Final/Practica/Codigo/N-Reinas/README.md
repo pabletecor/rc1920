@@ -78,9 +78,6 @@ test(Qs) :- test(Qs,1,[],[]).
 ### test(+Qs,+X,+Cs,+Ds)
 Es cierto si la reina en la fila Qs, y en la columna X, no entra en conflicto con las diagonales Cs y Ds
 
-### '\'+ Meta:
-Cierto si meta no puede ser probado
-
 ### memberchk(?Elem,+List): 
 Cierto si Elem pertenece a List
 ```
