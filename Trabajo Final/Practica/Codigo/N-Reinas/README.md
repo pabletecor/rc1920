@@ -1,4 +1,4 @@
-# Resolución del problema de las N-Reinas y el Problema del Caballo en Prolog
+# Resolución del problema de las N-Reinas en Prolog
 
 
 :classical_building: Universidad de Huelva
@@ -10,7 +10,7 @@
 :men_wrestling: Pablo Cordón Hidalgo y Manuel J. Reyes Capelo
 
 
-# Problema de las N Reinas
+# Problema de las N Reinas (N-Queens)
 
 ## Introducción
 
