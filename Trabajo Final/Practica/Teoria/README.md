@@ -69,7 +69,7 @@ Las redes semánticas se usan como una alternativa a la representación lógica.
 
 Si bien el uso de redes semánticas es simple y fácil de entender, ya que es muy parecido al lenguaje natural, su coste computacional es alto y es difícil de saber si es posible automatizar la reducción a grafos para todas las oraciones de un lenguaje dado.
 
-![Representación Semántica](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Teoria/Imagenes/semanticrepresentation.PNG)
+![Representación Semántica](https://github.com/pabletecor/rc1920/blob/master/Trabajo%20Final/Practica/Teoria/Imagenes/semanticrepresentation.png)
 
 
 ### Representación de **frames**
